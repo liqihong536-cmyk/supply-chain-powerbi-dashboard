@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing **180K+ order records** to find out why more than half of all orders are delivered late, and what to do about it.
 
-![Overview](images/overview.png)
+![Overview](overview.png)
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ The monthly late rate stayed at 55–59% for three years, and top categories suc
 | Product & Customer | Top 10 categories by sales and profit, sales vs. late rate by category, sales by customer segment |
 | Insights | Key findings and recommendations |
 
-![Delivery Analysis](images/delivery-analysis.png)
+![Delivery Analysis](delivery-analysis.png)
 
 ## Tools & Techniques
 
@@ -58,7 +58,7 @@ AVERAGEX(
 
 - `Supply_Chain_Dashboard.pbix`: Power BI source file (open with Power BI Desktop)
 - `Supply_Chain_Dashboard.pdf`: static export of all four pages
-- `images/`: page screenshots
+- `*.png: page screenshots
 
 ## Data Source
 
