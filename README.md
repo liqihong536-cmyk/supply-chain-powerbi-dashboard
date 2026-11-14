@@ -68,4 +68,4 @@ DataCo Smart Supply Chain for Big Data Analysis, by Fabian Constante, Fernando S
 
 ---
 
-Built by **Qihong Li** · [LinkedIn](https://www.linkedin.com/in/your-profile)
+Built by **Qihong Li** · [LinkedIn](https://www.linkedin.com/in/qihong-li-pm/)
